@@ -8,7 +8,7 @@ Given an array edges where edges[i] = [typei, ui, vi] represents a bidirectional
 
 Return the maximum number of edges you can remove, or return -1 if Alice and Bob cannot fully traverse the graph.
 
- 
+  
  
 Example 1:
 
