@@ -24,7 +24,7 @@ Example 2:
 Input: n = 4, edges = [[3,1,2],[3,2,3],[1,1,4],[2,1,4]]
 Output: 0
 Explanation: Notice that removing any edge will not make the graph fully traversable by Alice and Bob.
-Example 3:
+Example 3: 
 
 
 
