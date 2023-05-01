@@ -1,6 +1,6 @@
 # LeetCode_Task_1579_Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_cpp
 Alice and Bob have an undirected graph of n nodes and three types of edges: 
-
+ 
 Type 1: Can be traversed by Alice only.  
 Type 2: Can be traversed by Bob only.   
 Type 3: Can be traversed by both Alice and Bob. 
